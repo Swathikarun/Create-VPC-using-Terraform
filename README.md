@@ -2,7 +2,7 @@
 
 ## Objective
 
-This tells you how to create a VPC using [Datasource](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/availability_zones) and [cidrsubnet functions](https://www.terraform.io/docs/language/functions/cidrsubnet.html) via Terraform tool.
+This tells you how to build a tf file to create a VPC using [Datasource](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/availability_zones) and [cidrsubnet functions](https://www.terraform.io/docs/language/functions/cidrsubnet.html) via Terraform tool.
 
 ## Prerequisites
 
